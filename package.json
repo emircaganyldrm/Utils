@@ -1,0 +1,9 @@
+{
+  "author": "emirc",
+  "name": "com.emirc.utils",
+  "displayName": "Utils & Extensions",
+  "version": "0.0.0",
+  "unity": "2021.3",
+  "description": "Some useful extension methods & utils",
+  "dependencies": {}
+}
